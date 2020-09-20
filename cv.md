@@ -24,7 +24,7 @@ document.getElementById("demo").innerHTML = x;
 ```
 ## Experience
 
-No experience at all
+No experience
 
 ### Education
 
