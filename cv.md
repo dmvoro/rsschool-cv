@@ -28,7 +28,7 @@ No experience
 
 ### Education
 
-Electritechnical Univercity Leti 2005-2011
+Electritechnical Univercity "Leti" 2005-2011
 
 
 ### English
