@@ -11,7 +11,7 @@
 I am Dmitry
 
 ## Skills
-***Programming Languages*** : HTML | CSS | Java | JavaScript | C++  
+***Programming Languages*** : CSS | Java | JavaScript | C++  
 ***VCS*** : Git
 ***IDE*** : IntelliJ IDEA | Visual Studio Code
 
