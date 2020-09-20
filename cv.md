@@ -32,4 +32,4 @@ Electritechnical Univercity "Leti" 2005-2011
 
 
 ### English
-My level is A1.
+My level is A2.
